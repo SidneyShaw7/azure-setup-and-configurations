@@ -19,7 +19,7 @@ Let’s start by setting up the **Windows 10** VM. This process is pretty straig
 8. For **Authentication Type**, select **Username/Password**. Enter your credentials.
 9. Click **Next** for the **Disks** tab and leave the default settings.
 10. For **Networking**, Azure will automatically create a **Virtual Network** for you (named something like `windows-vm-vnet`).
-   - **Screenshot**: Capture the **Networking** tab showing **windows-vm-vnet** as the selected network.![Selected Network](images/screenshot6.png)
+   - **Screenshot**:![Selected Network](images/screenshot6.png)
 11. Click **Review + Create**, and then **Create**.
 
 While the **Windows VM** is being created, you can head over to the **Resource Group** and see all the resources being created, like the **Virtual Network**, **Public IP address**, **Network Interface**, and **Disk**.
