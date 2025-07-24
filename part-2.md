@@ -1,6 +1,6 @@
 # Part 2: Setting Up Two Virtual Machines on the Same Network in Azure
 
-In this guide, we’ll be setting up **two virtual machines (VMs)**—one with **Windows 10** and the other with **Ubuntu Linux**—on the **same Virtual Network (VNet)** in **Azure**. We'll also create a **Virtual Network (VNet)** while setting up the VMs. By the end of this guide, you'll have two VMs on the same network, ready for further configurations in the next part!
+In this guide, we’ll be setting up **two virtual machines (VMs)**one with **Windows 10** and the other with **Ubuntu Linux**— on the **same Virtual Network (VNet)** in **Azure**. We'll also create a **Virtual Network (VNet)** while setting up the VMs. By the end of this guide, you'll have two VMs on the same network, ready for further configurations in the next part!
 
 ---
 
@@ -57,7 +57,7 @@ After both VMs are created, go back to your **Resource Group**. You’ll see bot
 
 ## Step 4: Done for Now!
 
-Great! You’ve now got two VMs—**one running Windows 10** and the other **running Ubuntu Linux**—on the **same Virtual Network**. These VMs are ready for future configurations, so keep them running as we’ll use them in **Part 3** for monitoring network traffic and setting up security.
+Great! You’ve now got two VMs—**one running Windows 10** and the other **running Ubuntu Linux** -on the **same Virtual Network**. These VMs are ready for future configurations, so keep them running as we’ll use them in **Part 3** for monitoring network traffic and setting up security.
 
 ---
 
